@@ -13,10 +13,10 @@
         <h2 class="titulo-principal">Meus objetivos do ano<span>_</span></h2>
         <div class="conteudo">
             <div class="botoes">
-                <button class="botao ativo">ADICIONAR SEU OBJETIVO</button>
-                <button class="botao">ADICIONAR SEU OBJETIVO</button>
-                <button class="botao">ADICIONAR SEU OBJETIVO</button>
-                <button class="botao">ADICIONAR SEU OBJETIVO</button>
+                <button class="botao ativo">começar na autoescola</button>
+                <button class="botao">ver algo que eu relmente quero fazer para o fututro</button>
+                <button class="botao">ter uma relação melhor com a minha irmã</button>
+                <button class="botao">terminar a escola</button>
             </div>
             <div class="abas-textos">
                 <div class="aba-conteudo ativo">
